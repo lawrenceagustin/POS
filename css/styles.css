@@ -1,0 +1,13 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+  overflow-x: hidden;
+}
+
+.food-names {
+  font-family: 'Alice', serif;
+  font-size: 25px;
+  color: white;
+}
